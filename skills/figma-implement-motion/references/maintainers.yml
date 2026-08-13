@@ -1,0 +1,6 @@
+examples-and-anti-examples.md: motion
+framework-recommendations.md: motion
+gotchas.md: motion
+motion-lint-rules.md: motion
+svg-and-path-motion.md: motion
+unsupported-and-fallbacks.md: motion

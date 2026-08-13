@@ -1,0 +1,7 @@
+# One prompt per line. Each should NOT trigger your skill.
+# Lines starting with # are ignored.
+Implement this Figma design in React with Tailwind
+Refactor this SwiftUI view to use a different layout
+Generate a Mermaid sequence diagram of this auth flow
+Add a button to my React component
+Run the tests in this directory

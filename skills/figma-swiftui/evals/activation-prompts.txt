@@ -1,0 +1,14 @@
+# One prompt per line. Each should trigger your skill.
+# Lines starting with # are ignored.
+# Design → code
+Implement this Figma design as a SwiftUI view: https://figma.com/design/abc123/MyApp?node-id=1-2
+Build this Figma frame as a SwiftUI screen
+Convert this Figma design to Swift for iOS
+Generate SwiftUI code from this Figma node
+Translate this Figma component into Swift for an iPhone app
+# Code → design
+Create a Figma component from this SwiftUI code
+Update the Figma file to match my Swift code
+Push this SwiftUI view to Figma: ContentView.swift
+Mirror my SwiftUI design system in a new Figma file
+Build Figma components from these SwiftUI views

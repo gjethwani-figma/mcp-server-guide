@@ -1,0 +1,23 @@
+# One prompt per line. Each should NOT trigger figma-use-slides.
+# Lines starting with # are ignored.
+
+# Design file (figma.com/design/...) — should trigger figma-use, not figma-use-slides
+Implement this Figma design in React
+Move this frame to the right in Figma
+Change the color of this rectangle in Figma
+Rename this layer in this Figma design file
+Update the typography variables in my Figma design file
+
+# FigJam — should trigger figma-use-figjam
+Create a FigJam board for our brainstorming session
+Add sticky notes to my FigJam board
+Build a flow diagram in FigJam
+
+# Code Connect / library-build flows — different skills
+Generate Code Connect mappings for these Figma components
+Build a design system in Figma from my React components
+
+# Pure design-file builds — figma-generate-design or figma-use
+Create a login screen in Figma
+Build the home page layout in Figma using our design system
+Generate a SwiftUI component from this Figma node

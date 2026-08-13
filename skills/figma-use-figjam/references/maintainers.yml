@@ -1,0 +1,13 @@
+batch-modify.md: figjam
+create-code-block.md: figjam
+create-connector.md: figjam
+create-label.md: figjam
+create-section.md: figjam
+create-shape-with-text.md: figjam
+create-sticky.md: figjam
+create-table.md: figjam
+create-text.md: figjam
+edit-text.md: figjam
+figjam-colors.md: figjam
+plan-board-content.md: figjam
+position-figjam-nodes.md: figjam

@@ -1,0 +1,12 @@
+api-reference.md: third_party_agents
+common-patterns.md: third_party_agents
+component-patterns.md: third_party_agents
+effect-style-patterns.md: third_party_agents
+gotchas.md: third_party_agents
+plugin-api-patterns.md: third_party_agents
+plugin-api-standalone.d.ts: third_party_agents
+plugin-api-standalone.index.md: third_party_agents
+text-style-patterns.md: third_party_agents
+validation-and-recovery.md: third_party_agents
+variable-patterns.md: third_party_agents
+working-with-design-systems: third_party_agents

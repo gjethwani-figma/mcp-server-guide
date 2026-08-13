@@ -1,0 +1,17 @@
+# One prompt per line. Each should NOT trigger this skill.
+# Lines starting with # are ignored.
+
+# These should trigger figma-implement-design or figma-use, not this skill
+Implement this Figma design in React
+Generate code from this Figma component
+Write the CSS for this Figma design
+Build a React component that matches this Figma file
+
+# General Figma canvas edits — use figma-use, not this skill
+Move this frame to the right in Figma
+Change the color of this rectangle in Figma
+Rename this layer in Figma
+
+# Screen / page building — should trigger figma-generate-design
+Create a login screen in Figma
+Build the home page layout in Figma using our design system

@@ -1,0 +1,2 @@
+activation-prompts.txt: third_party_agents
+negative-prompts.txt: third_party_agents

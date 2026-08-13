@@ -1,0 +1,20 @@
+# One prompt per line. Each should trigger this skill.
+# Lines starting with # are ignored.
+
+# Design system / library build scenarios (existing)
+Build a design system in Figma from my codebase
+Create a Figma component library from my React components
+Set up design tokens in Figma from my CSS variables
+Create color variables and typography tokens in Figma
+Build a light and dark mode theme in Figma
+Create a button component in Figma with all variants
+
+# Single component creation scenarios (new — the focus of this change)
+Create a component in Figma
+Build a card component in Figma
+Make a badge component in Figma
+Generate a component for my design in Figma
+I need a toggle component created in Figma
+Add a checkbox component to our Figma file
+Create an input component with states in Figma
+Build a modal component in Figma with variants

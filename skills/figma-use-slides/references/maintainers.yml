@@ -1,0 +1,6 @@
+slide-content.md: slides
+slide-design.md: slides
+slide-gotchas.md: slides
+slide-grid.md: slides
+slide-lifecycle.md: slides
+slide-properties.md: slides

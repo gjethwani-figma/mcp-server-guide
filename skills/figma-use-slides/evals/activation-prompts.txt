@@ -1,0 +1,25 @@
+# One prompt per line. Each should trigger figma-use-slides.
+# Lines starting with # are ignored.
+
+# General Slides authoring
+Create a Figma Slides deck for our Q3 review
+Add three slides to my Figma Slides file
+Build a Figma slide deck about our user research findings
+Add speaker notes to every slide in my deck
+Organize this Slides file into sections
+
+# Slides-specific structural ops
+Insert a new slide row in my Figma Slides file
+Rename the second section in this slide deck to "Demo"
+Clone slide 5 and put it after slide 8 in this Figma Slides
+
+# Translating designs into Slides — the case the coords-fix targets
+Translate this design file into a Figma Slides deck: https://figma.com/design/abc/Deck
+Copy this 18-slide design into a Slides file with the same layout per slide
+Build a presentation in Figma Slides from these design frames
+Transpose this Figma design file into a Slides presentation, slide-for-slide
+
+# Debug / fix scenarios that should still load this skill
+Why are the cards on my Figma Slides shifted to the upper-left?
+My Figma Slides nodes ended up at (-240, -240) — what's wrong?
+Fix the layout drift on my Figma Slides deck
